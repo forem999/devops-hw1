@@ -20,4 +20,4 @@ do
 done
 
 # run script evey hour in crontab -e
-# * 0-23 * * * /home/forem/bashscr/test1/script.sh
+# * 0-23 * * * /home/remote/test1/script.sh
